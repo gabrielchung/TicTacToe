@@ -1,4 +1,4 @@
 # TicTacToe
 
-Server - Please run with Flask
-Client - Coming soon
+Server - Please run with Flask  
+Client - Coming soon  
